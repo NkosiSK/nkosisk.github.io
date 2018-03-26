@@ -1,2 +1,2 @@
-# nkosisk.github.io
+# smartexpertcomputing.co.za
 GitHub Pages
